@@ -22,3 +22,6 @@ A collection of all my hackerrank solutions in one place...  ;)
 * find merge point of two lists (==wasn't open on the day i did LL so today was the day==)
 ## PS -> I got struck on the question on the queue part....There was a ques on breadth first search and like i know that right now.... :'(
 
+### day - 6 (05/06/2018)
+* finished all before swap_nodes in ds/trees
+* finished all before the_full_counting_sort in algo/sorting
