@@ -25,3 +25,6 @@ A collection of all my hackerrank solutions in one place...  ;)
 ### day - 6 (05/06/2018)
 * finished all before swap_nodes in ds/trees
 * finished all before the_full_counting_sort in algo/sorting
+
+### day - 7 (06/06/2018)
+* self_balancing_tree (====well that was a heck of a question i tell ya=====)
