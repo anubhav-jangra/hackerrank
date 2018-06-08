@@ -28,3 +28,11 @@ A collection of all my hackerrank solutions in one place...  ;)
 
 ### day - 7 (06/06/2018)
 * self_balancing_tree (====well that was a heck of a question i tell ya=====)
+
+### day - 8 (07/06/2018)
+* qheap
+* Jesse and Cookies
+* The full counting sort
+* Closest Numbers
+* Find the median (==though I just did it the cheap way, but tomorrow i m gonna do it median-ofmedians way in O(n)==)
+
