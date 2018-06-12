@@ -38,3 +38,6 @@ A collection of all my hackerrank solutions in one place...  ;)
 
 ### day - 9 (08/06/2018)
 * median-of-medians approach to find median of an unsorted array in O(n)
+
+### day - 10 (09/06/2018)
+* started algo/implementation
