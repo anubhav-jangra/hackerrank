@@ -31,7 +31,7 @@ A collection of all my hackerrank solutions in one place...  ;)
 
 ### day - 8 (07/06/2018)
 * qheap
-* Jesse and Cookies
+* Jesse and Cookies (==pending==)
 * The full counting sort
 * Closest Numbers
 * Find the median (==though I just did it the cheap way, but tomorrow i m gonna do it median-ofmedians way in O(n)==)
@@ -41,3 +41,13 @@ A collection of all my hackerrank solutions in one place...  ;)
 
 ### day - 10 (09/06/2018)
 * started algo/implementation
+
+### day - 11 (12/06/2018)
+* Jesse and Cookies (==still couldn't pass 2 test cases dunno why??==)
+* algo/greedy (first 3 questions)
+
+### day - 12 (13/06/2018)
+* Sparse Arrays
+* Array Manipulation OR Crush (==my very first hard problem==)
+* Started Project Euler (001, 002)
+
