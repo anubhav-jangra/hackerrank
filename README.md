@@ -51,9 +51,9 @@ A collection of all my hackerrank solutions in one place...  ;)
 * Array Manipulation OR Crush (==my very first hard problem==)
 * Started Project Euler (001, 002)
 
-### day - 13 (15/06/2018)
+### day - 13 (14/06/2018)
 * Project Euler (003, 004)
 
-### day - 14 (16/06/2018)
+### day - 14 (15/06/2018)
 * greedy/Luck Balance
 * Project Euler (005, 006, 007)
