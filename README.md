@@ -57,3 +57,16 @@ A collection of all my hackerrank solutions in one place...  ;)
 ### day - 14 (15/06/2018)
 * greedy/Luck Balance
 * Project Euler (005, 006, 007)
+
+### day - 15 (18/06/2018)
+* contests/week of code 38/which section
+* greedy
+    * maximum preimeter triangle
+    * beautiful pairs
+    * sherlock and the beasts
+
+### day - 15 (18/06/2018)
+* contests/week of code 38/minute to win it     (==Tried it for around 4hrs but still couldn't reduce its time complexity down from O(n^2)==) (--pending--)
+* greedy/priyanka and toys
+* greedy/largest permutation                    (==self note --> try later after learning hash maps==) (--pending--)
+
