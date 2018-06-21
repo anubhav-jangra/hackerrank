@@ -70,3 +70,5 @@ A collection of all my hackerrank solutions in one place...  ;)
 * greedy/priyanka and toys
 * greedy/largest permutation                    (==self note --> try later after learning hash maps==) (--pending--)
 
+### day - 16 (20/06/2018)
+* Project Euler (008, 009, 010, 011)
