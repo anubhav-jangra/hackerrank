@@ -3,6 +3,7 @@
 #include <vector>
 #include <iostream>
 #include <algorithm>
+#include <unordered_map>
 using namespace std;
 
 vector<long long int>primeFactors(long long int n) {
@@ -23,7 +24,6 @@ vector<long long int>primeFactors(long long int n) {
 }
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
     long long int n;
     short t;
     cin>>t;
@@ -34,3 +34,4 @@ int main() {
     }
     return 0;
 }
+
